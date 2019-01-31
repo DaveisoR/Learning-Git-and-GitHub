@@ -1,0 +1,8 @@
+---
+title: "Course outline"
+author: "David McClelland"
+date: "31 January 2019"
+output: html_document
+---
+
+Learning Git and GitHub will form part of our Research methods course in 2019.
